@@ -1,0 +1,33 @@
+.name { 
+    font-size: 25px;
+   text-align: center;  
+}
+.name :hover {
+    color: red;
+    cursor: pointer;
+}
+H4 {
+    color:darkcyan;
+}
+
+.carrer {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: lightgray;
+}
+.carrer:hover {
+    background-color:lightsalmon;
+    color: white;
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.img {
+    border-radius: 200px;
+}
+.table {
+    padding: 5 px;
+}
